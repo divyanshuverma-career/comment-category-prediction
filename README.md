@@ -2,8 +2,8 @@
 
 A machine learning project for **multiclass comment classification** using text, engagement signals, and structured metadata. Developed as an academic Kaggle competition project, this notebook explores NLP feature extraction, feature engineering, model tuning, and ensemble learning.
 
-**Best recorded validation Macro F1:** `0.8247` with LightGBM  
-**Reported Kaggle score:** approximately `0.82`
+**Best recorded validation Macro F1:** `0.83274` with LightGBM  
+
 
 ## Problem Statement
 
