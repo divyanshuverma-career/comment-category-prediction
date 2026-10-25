@@ -4,7 +4,7 @@ A machine learning project for **multiclass comment classification** using text,
 
 **Best recorded validation Macro F1:** `0.83274` with LightGBM  
 
-
+link to the Kaggle notebook: https://www.kaggle.com/code/divyanshu08999/23f2005520-notebook-t12026?scriptVersionId=307641015
 ## Problem Statement
 
 Given a comment and its associated metadata, predict one of four platform-assigned categories (`label`: 0, 1, 2, or 3). Because the target classes are imbalanced, the project uses **Macro F1** as the primary evaluation metric to give each class equal importance.
